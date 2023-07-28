@@ -1,2 +1,3 @@
-Python
-Streamlit
+streamlit
+speech_recognition
+openai
